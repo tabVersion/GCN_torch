@@ -13,9 +13,9 @@ personal impelemtation for [Semi-Supervised Classification with Graph Convolutio
 * use the data & dataloader implemented by [tkipf](https://github.com/tkipf/gcn)
 * the training process demoed by [dragen1860](https://github.com/dragen1860/GCN-PyTorch)
 
-> @inproceedings{kipf2017semi,
-> title={Semi-Supervised Classification with Graph Convolutional Networks},
-> author={Kipf, Thomas N. and Welling, Max},
-> booktitle={International Conference on Learning Representations (ICLR)},
-> year={2017}
+> @inproceedings{kipf2017semi,  
+> title={Semi-Supervised Classification with Graph Convolutional Networks},  
+> author={Kipf, Thomas N. and Welling, Max},  
+> booktitle={International Conference on Learning Representations (ICLR)},  
+> year={2017}  
 > }
